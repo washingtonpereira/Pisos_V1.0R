@@ -37,3 +37,5 @@ while True:
         utili()
 
 
+    if event =="Exit":
+        break
